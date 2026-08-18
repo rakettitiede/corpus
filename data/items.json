@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "text": "petrichor",
+    "approved": true,
+    "suggestedAt": "2026-05-29T18:02:00.000Z",
+    "decidedAt": "2026-06-02T07:33:00.000Z",
+    "decidedBy": "priya"
+  },
+  {
+    "id": 2,
+    "text": "Byzantine",
+    "approved": false,
+    "suggestedAt": "2026-08-14T13:17:00.000Z",
+    "decidedAt": null,
+    "decidedBy": null
+  },
+  {
+    "id": 3,
+    "text": "bollocks",
+    "approved": false,
+    "suggestedAt": "2026-06-14T23:41:00.000Z",
+    "decidedAt": "2026-06-19T06:49:00.000Z",
+    "decidedBy": "tom"
+  }
+]
